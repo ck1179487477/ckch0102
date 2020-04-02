@@ -1,0 +1,21 @@
+img{
+    width: 1rem;
+}
+
+.votes{
+    background: lightgray;
+    text-align: center;
+    padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    margin: 0 1rem 0 0;
+}
+
+span:hover{
+    cursor: pointer;
+}
